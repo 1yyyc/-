@@ -1,0 +1,26 @@
+{
+  "name": "test_vue2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "core-js": "^3.8.3",
+    "echarts": "^5.4.1",
+    "element-plus": "^2.2.29",
+    "pinia": "^2.0.30",
+    "register-service-worker": "^1.7.2",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.58.0",
+    "sass-loader": "^13.2.0",
+    "vue-router": "^4.1.6"
+  }
+}
